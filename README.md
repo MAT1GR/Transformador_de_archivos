@@ -1,0 +1,1 @@
+Este script permite cargar diferentes tipos de archivos como PDF, DOCX, XLSX y otros, para analizar su contenido, extraer el texto y generar un nuevo archivo con toda la información combinada. Ideal para organizar y simplificar grandes volúmenes de datos de distintos formatos en un solo lugar. También sirve para el Machine Learning.
